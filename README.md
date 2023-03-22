@@ -8,6 +8,10 @@
 - 📫 이메일 : ddowoot@gmail.com  / instagram : ddo__woo
 - 😄 개발 외적으로는 외국어 공부하는 것을 좋아합니다. 일본어를 전공했고, 영어도 배우고 싶습니다.
 
+
+Blog : https://velog.io/@ddowoo 
+
+
 기술스택
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
