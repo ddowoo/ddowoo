@@ -1,11 +1,11 @@
-안녕하세요. 스타트업 리디파이의 프론트엔드 개발자 이동욱입니다. 👋
+Hello. I'm frond-end developer of start-up ridify 👋
 
-- ⚒ React Native를 활용한 독서교육 앱 프로젝트를 진행중입니다.
-- 📫 이메일 : ddowoot@gmail.com  / instagram : ddo__woo
+- ⚒ I'm working on a reading education app project using React Native.
+- 📫 Email : ddowoot@gmail.com  / instagram : ddo__woo
 
 Blog : https://velog.io/@ddowoo 
 
-기술스택
+skill
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 
