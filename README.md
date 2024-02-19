@@ -1,7 +1,7 @@
 Hello. I'm frond-end developer of start-up ridify 👋
 
 - ⚒ I'm working on a reading education app project using React Native.
-- 📫 Email : ddowoot@gmail.com  / instagram : ddo__woo
+- 📫 Email : ddowoot@gmail.com
 
 Blog : https://velog.io/@ddowoo 
 
