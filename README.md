@@ -2,7 +2,7 @@
 
 - 📫 Email : ddowoot@gmail.com
 
-Notion : https://velog.io/@ddowoo 
+Notion : [개발기록](https://knotty-fortnight-88f.notion.site/c16703ccdd0a4c4e8f23430365bbb5b5?pvs=73) <br/>
 Blog : https://velog.io/@ddowoo 
 
 
