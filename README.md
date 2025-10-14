@@ -1,9 +1,10 @@
-Hello. I'm frond-end developer of start-up ridify 👋
+안녕하세요. 인프랩에서 개발중입니다. 👋
 
-- ⚒ I'm working on a reading education app project using React Native.
 - 📫 Email : ddowoot@gmail.com
 
+Notion : https://velog.io/@ddowoo 
 Blog : https://velog.io/@ddowoo 
+
 
 skill
 
